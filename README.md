@@ -119,7 +119,6 @@ Firebase Hosting に自動デプロイされます
 | `remark`  | varchar | `NULL`              |        | 備考              |
 
 ## Firebase Hosting 構成
-
 詳細設定は`firebase.json`に記載
 
 ## テスト内容の例
